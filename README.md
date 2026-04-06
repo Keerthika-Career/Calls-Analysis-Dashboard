@@ -4,9 +4,6 @@
 This project presents an interactive Power BI dashboard designed to analyze customer support call data across multiple dimensions such as request type, branch performance, call duration, and work shifts.
 The dashboard helps stakeholders identify patterns, monitor performance, and optimize customer service operations.
 
-## Dashboard Preview
-<img src="dashboard.png" width="1000"/>
-
 ## Key Objectives
 * Analyze call volume and duration across different request types
 * Identify branch-wise performance and workload distribution
@@ -50,6 +47,5 @@ The dashboard helps stakeholders identify patterns, monitor performance, and opt
 Keerthika K
 Risk & Compliance | Business Analyst | Data Analytics
 
-<img width="1324" height="742" alt="Calls Analysis Dashboard image" src="https://github.com/user-attachments/assets/1dca15e0-4378-49d9-ae55-76dac106e39d" />
-<img width="1324" height="742" alt="Calls Analysis Dashboard image" src="https://github.com/user-attachments/assets/1dca15e0-4378-49d9-ae55-76dac106e39d" />
-
+<img width="1324" height="742" alt="Calls Analysis Dashboard image" src="https://github.com/user-attachments/assets/d88d898b-8421-4def-9758-f376d21f8634" />
+<img width="1324" height="742" alt="Calls Analysis Dashboard image" src="https://github.com/user-attachments/assets/d88d898b-8421-4def-9758-f376d21f8634" />
