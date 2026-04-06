@@ -1,4 +1,4 @@
-# Call Analysis Dashboard
+# Calls Analysis Dashboard
 
 ## Overview
 This project presents an interactive Power BI dashboard designed to analyze customer support call data across multiple dimensions such as request type, branch performance, call duration, and work shifts.
@@ -49,4 +49,7 @@ The dashboard helps stakeholders identify patterns, monitor performance, and opt
 ## Author
 Keerthika K
 Risk & Compliance | Business Analyst | Data Analytics
+
+<img width="1324" height="742" alt="Calls Analysis Dashboard image" src="https://github.com/user-attachments/assets/1dca15e0-4378-49d9-ae55-76dac106e39d" />
+<img width="1324" height="742" alt="Calls Analysis Dashboard image" src="https://github.com/user-attachments/assets/1dca15e0-4378-49d9-ae55-76dac106e39d" />
 
