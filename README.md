@@ -47,7 +47,7 @@ The dashboard helps stakeholders identify patterns, monitor performance, and opt
 * Supports data-driven decision-making
 
 ## Author
-<img width="1324" height="742" alt="Calls Analysis Dashboard image" src="https://github.com/user-attachments/assets/f789adda-9c35-4a2d-9362-d6cc07d1472e" />
-<img width="1324" height="742" alt="Calls Analysis Dashboard image" src="https://github.com/user-attachments/assets/f789adda-9c35-4a2d-9362-d6cc07d1472e" />
 Keerthika K
 Risk & Compliance | Business Analyst | Data Analytics
+<img width="1324" height="742" alt="Calls Analysis Dashboard image" src="https://github.com/user-attachments/assets/f789adda-9c35-4a2d-9362-d6cc07d1472e" />
+<img width="1324" height="742" alt="Calls Analysis Dashboard image" src="https://github.com/user-attachments/assets/f789adda-9c35-4a2d-9362-d6cc07d1472e" />
