@@ -1,15 +1,14 @@
-# Calls Analysis Dashboard
+# Call Center Performance Analysis (Power BI)
 
 ## Overview
-This project presents an interactive Power BI dashboard designed to analyze customer support call data across multiple dimensions such as request type, branch performance, call duration, and work shifts.
-The dashboard helps stakeholders identify patterns, monitor performance, and optimize customer service operations.
+This project presents a Power BI dashboard designed to analyze and improve call center performance. It provides insights into key metrics such as call volume, resolution efficiency, and agent performance.
 
 ## Key Objectives
-* Analyze call volume and duration across different request types
-* Identify branch-wise performance and workload distribution
-* Understand customer behavior based on account type and tenure
-* Evaluate call patterns across different work shifts
-* Enable data-driven decision-making
+•	Analyse overall call center performance
+•	Track call volume trends
+•	Measure average resolution time
+•	Evaluate agent efficiency
+•	Identify areas for operational improvement
 
 ## Key Features
 * Call Duration Analysis by request type and branch
@@ -27,7 +26,6 @@ The dashboard helps stakeholders identify patterns, monitor performance, and opt
 
 ## Tools & Technologies
 * Power BI
-* DAX
 * Data Modeling
 * Data Visualization
 * Excel
